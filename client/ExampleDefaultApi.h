@@ -56,7 +56,7 @@ public:
     QString getParamStyleDelimiter(const QString &style, const QString &name, bool isExplode);
 
 
-    void usersGet();
+    virtual void usersGet();
 
 
 private:
