@@ -1,0 +1,9 @@
+{
+    "generatorName": "cpp-qt-client",
+    "inputSpec": "example.yaml",
+    "outputDir": ".",
+    "additionalProperties": {
+        "cppNamespace": "oapi_example",
+        "modelNamePrefix": "Example"
+    }
+}
